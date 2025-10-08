@@ -1,5 +1,20 @@
-This repository was created for educational purposes only. It contains two projects:
+This repository was created for educational purposes only. It contains following projects:
 
-Sales Analysis: The first project is a simple analysis of 12 months of sales data. It answers common business questions using clear visualizations and graphs.
+1 ETL-script for analysis
 
-E-Store Database Project: The second project uses a dataset from an electronics store. It involves cleaning the data, uploading it to a local database, and then performing a complete analysis using both graphs and SQL queries.
+Project Description
+  Developed a student and room data analysis system in Python with PostgreSQL, applying SOLID principles and design patterns (Repository, Strategy, Command, Facade).
+Key Features
+  Data loading from JSON files
+  Optimized database schema with indexes
+  4 analytical reports generation
+  Results export to JSON/XML via CLI
+Technologies
+  Python 3.8+, PostgreSQL, psycopg2-binary, standard libraries (json/xml/argparse), SQL aggregate functions, query optimization.
+Achievements
+  Mass DB operations (25x faster)
+  Clean, extensible architecture
+  Full data validation
+  Automatic result structure generation
+  Educational Value
+  Gained experience in OOP, databases, architectural patterns, SOLID principles, performance optimization, and enterprise application development. The project serves as a strong template for analytical systems and ETL processes.
