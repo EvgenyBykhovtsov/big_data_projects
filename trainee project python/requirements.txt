@@ -1,0 +1,6 @@
+# PostgreSQL адаптер для Python
+# Используем psycopg2-binary для простоты установки
+# Если не работает, попробуйте: pip3 install psycopg2 (требует PostgreSQL dev headers)
+psycopg2-binary>=2.9.0
+
+# argparse входит в стандартную библиотеку Python 3.2+, не нужно устанавливать отдельно
